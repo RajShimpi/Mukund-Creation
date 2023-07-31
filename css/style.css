@@ -52,7 +52,7 @@ body {
 .hero_area {
   height: 100vh;
   position: relative;
-  background-image: url(../images/hero-bg.jpg);
+  background-image: url(../img/p17.jpeg);
   background-size: cover;
   background-position: right;
   background-repeat: no-repeat;
@@ -85,15 +85,15 @@ body {
 }
 
 .hero_area .slick_main .main-img-box.b1 {
-  background-image: url(../images/a-1.jpg);
+  background-image: url(../img/p6.jpeg);
 }
 
 .hero_area .slick_main .main-img-box.b2 {
-  background-image: url(../images/hero-side-bg2.jpg);
+  background-image: url(../img/p7.jpeg);
 }
 
 .hero_area .slick_main .main-img-box.b3 {
-  background-image: url(../images/hero-side-bg.jpg);
+  background-image: url(../img/p8.jpeg);
 }
 
 .sub_page .hero_area {
@@ -402,7 +402,7 @@ a:focus {
 }
 
 .slider_section .carousel-btn-box .carousel-control-prev {
-  background-image: url(../images/up-grey.png);
+   background-image: url(../images/up-grey.png); 
 }
 
 .slider_section .carousel-btn-box .carousel-control-prev:hover {
@@ -615,7 +615,7 @@ a:focus {
 }
 
 .quality_section {
-  background-image: url(../images/quality-bg.jpg);
+  background-image: url(../img/p4.jpeg);
   background-size: cover;
   color: #ffffff;
   margin-top: -2px;
@@ -995,7 +995,7 @@ a:focus {
 }
 
 .contact_section {
-  background-image: url(../images/contact-bg.jpg);
+  background-image: url(../img/p9.jpeg);
   background-size: cover;
   position: relative;
   color: #ffffff;
